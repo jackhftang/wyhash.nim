@@ -1,6 +1,6 @@
 # wyhash.nim
 
-C wrapper for [wyhash](https://github.com/wangyi-fudan/wyhash).
+Nim wrapper of [wyhash](https://github.com/wangyi-fudan/wyhash).
 
 ## Usage
 
